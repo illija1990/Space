@@ -1,0 +1,39 @@
+﻿<Properties StartupConfiguration="{C1BF62FA-C5C9-41A2-2CDF-B0DCBC002D60}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Enemy/SprutBossController.cs">
+    <Files>
+      <File FileName="Assets/Scripts/GameController.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Player/BulletShot.cs" Line="27" Column="87" />
+      <File FileName="Assets/Scripts/Background/BackgrounController.cs" />
+      <File FileName="Assets/Scripts/Background/PlanetControl.cs" />
+      <File FileName="Assets/Scripts/Background/GaleyaControl.cs" />
+      <File FileName="Assets/Scripts/Player/NewPlayerMove.cs" />
+      <File FileName="Assets/Scripts/Enemy/Asteroid/AsterControl.cs" />
+      <File FileName="Assets/Scripts/Enemy/SprutBossController.cs" Line="7" Column="13" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Space" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="Background" expanded="True" />
+                <Node name="Enemy" expanded="True">
+                  <Node name="Asteroid" expanded="True" />
+                  <Node name="SprutBossController.cs" selected="True" />
+                </Node>
+                <Node name="Player" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="a71b94f0-bb58-465f-9a60-c8a4811e7b07" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
